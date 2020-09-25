@@ -16,6 +16,7 @@ type Props = {
 export type MessageType = {
     message: string,
     id: number
+    addedAt:string
     user: UserType
 }
 
@@ -67,7 +68,7 @@ export const Chat = (props: Props) => {
     };
 
     const messageElements = messages.map((m: MessageType) => {
-        return <Message key={m.id} name={m.user.name} message={m.message}/>
+        return <Message key={m.id} time={m.id} name={m.user.name} message={m.message}/>
     });
 
     const typingUsersElement = typingUsers.map((m: UserType) => {

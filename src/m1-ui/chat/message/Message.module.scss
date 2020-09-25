@@ -1,9 +1,23 @@
 
-
 .chatName {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
+
     align-items: center;
+
+    .text {
+        & span {
+            font-weight: 700;
+        }
+    }
+
+    .date {
+        margin: 10px;
+        @media (max-width: 900px) {
+            display: none;
+
+        }
+    }
 }
 
 .chatAvatar {
