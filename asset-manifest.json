@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/snap_chat/static/css/main.df4f7932.chunk.css",
+    "main.js": "/snap_chat/static/js/main.94eb601d.chunk.js",
+    "main.js.map": "/snap_chat/static/js/main.94eb601d.chunk.js.map",
+    "runtime-main.js": "/snap_chat/static/js/runtime-main.48ca1a91.js",
+    "runtime-main.js.map": "/snap_chat/static/js/runtime-main.48ca1a91.js.map",
+    "static/js/2.741dbed9.chunk.js": "/snap_chat/static/js/2.741dbed9.chunk.js",
+    "static/js/2.741dbed9.chunk.js.map": "/snap_chat/static/js/2.741dbed9.chunk.js.map",
+    "index.html": "/snap_chat/index.html",
+    "precache-manifest.a466bde6a43db9614cce518e873e8345.js": "/snap_chat/precache-manifest.a466bde6a43db9614cce518e873e8345.js",
+    "service-worker.js": "/snap_chat/service-worker.js",
+    "static/css/main.df4f7932.chunk.css.map": "/snap_chat/static/css/main.df4f7932.chunk.css.map",
+    "static/js/2.741dbed9.chunk.js.LICENSE.txt": "/snap_chat/static/js/2.741dbed9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ca1a91.js",
+    "static/js/2.741dbed9.chunk.js",
+    "static/css/main.df4f7932.chunk.css",
+    "static/js/main.94eb601d.chunk.js"
+  ]
+}
