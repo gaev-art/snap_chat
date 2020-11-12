@@ -1,7 +1,7 @@
 import React, {KeyboardEvent, useEffect} from 'react';
 import style from './LoginPage.module.scss';
 import TextField from '@material-ui/core/TextField/TextField';
-import {createConnection, setClientName} from '../../m2-bll/chat-reducer';
+import {createConnection, setClientName} from '../../m2-bll/chatReducer';
 import {useDispatch} from 'react-redux';
 import {NavLink, useHistory} from 'react-router-dom';
 import {Btn} from '../../common/buttom/Button';

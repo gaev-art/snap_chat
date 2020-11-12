@@ -1,7 +1,7 @@
 import {useDispatch, useSelector} from 'react-redux';
 import {AppStateType} from '../../m2-bll/store';
 import React, {ChangeEvent, KeyboardEvent, useEffect, useRef, useState} from 'react';
-import {destroyConnection, sendMessage, typeMessage} from '../../m2-bll/chat-reducer';
+import {destroyConnection, sendMessage, typeMessage} from '../../m2-bll/chatReducer';
 import style from './Chat.module.scss'
 import TextField from '@material-ui/core/TextField/TextField';
 import {NavLink, Redirect} from 'react-router-dom';

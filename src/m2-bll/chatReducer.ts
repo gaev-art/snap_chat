@@ -44,7 +44,7 @@ export const chatReducer = (state: InitialStateType = initialState, action: Acti
 };
 
 
-const action = {
+export const action = {
     messagesReceived: (messages: Array<MessageType>) => ({
         type: SET_MESSAGES,
         messages
@@ -103,7 +103,7 @@ export const createConnection = () => (dispatch: Dispatch) => {
 //Types
 type ActionTypes = InferActionTypes<typeof action>
 type ThunkType = ThunkAction<void, AppStateType, unknown, ActionTypes>
-type InitialStateType = typeof initialState
+export type InitialStateType = typeof initialState
 
 
 

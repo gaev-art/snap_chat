@@ -1,5 +1,5 @@
 import {applyMiddleware, combineReducers, createStore} from "redux";
-import {chatReducer} from "./chat-reducer";
+import {chatReducer} from "./chatReducer";
 import thunk from "redux-thunk";
 
 

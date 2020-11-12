@@ -5,9 +5,10 @@ export const api = {
     socket: null as null | SocketIOClient.Socket,
 
     createConnection() {
-        // this.socket = io('http://localhost:3009');
-        this.socket = io('https://server-4-chat.herokuapp.com/');
+        // this.socket = io('http://localhost:3010');
+        this.socket = io('https://back-4-chat.herokuapp.com/');
     },
+
     subscribe(initMessagesHandler: (messages: Array<MessageType>, fn: () => void) => void,
               newMessageSentHandler: (message: MessageType) => void,
               userTypingHandler: (user: UserType) => void
