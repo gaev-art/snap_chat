@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66e42ca46a56098d44568b2eb2494db4",
+    "revision": "242979f2c84fec4ef25f69b4e71626ac",
     "url": "/snap_chat/index.html"
   },
   {
-    "revision": "78b78476a4ec9b35d279",
+    "revision": "99b4866f014d6fe6794a",
     "url": "/snap_chat/static/css/main.cef3a5b1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/snap_chat/static/js/2.006ee3d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78b78476a4ec9b35d279",
-    "url": "/snap_chat/static/js/main.fe68a168.chunk.js"
+    "revision": "99b4866f014d6fe6794a",
+    "url": "/snap_chat/static/js/main.b9b33688.chunk.js"
   },
   {
     "revision": "8a2a014efc3e689babec",
