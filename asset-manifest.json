@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/snap_chat/static/css/main.cef3a5b1.chunk.css",
-    "main.js": "/snap_chat/static/js/main.b9b33688.chunk.js",
-    "main.js.map": "/snap_chat/static/js/main.b9b33688.chunk.js.map",
+    "main.js": "/snap_chat/static/js/main.46915edf.chunk.js",
+    "main.js.map": "/snap_chat/static/js/main.46915edf.chunk.js.map",
     "runtime-main.js": "/snap_chat/static/js/runtime-main.48ca1a91.js",
     "runtime-main.js.map": "/snap_chat/static/js/runtime-main.48ca1a91.js.map",
-    "static/js/2.006ee3d3.chunk.js": "/snap_chat/static/js/2.006ee3d3.chunk.js",
-    "static/js/2.006ee3d3.chunk.js.map": "/snap_chat/static/js/2.006ee3d3.chunk.js.map",
+    "static/js/2.e25c36a7.chunk.js": "/snap_chat/static/js/2.e25c36a7.chunk.js",
+    "static/js/2.e25c36a7.chunk.js.map": "/snap_chat/static/js/2.e25c36a7.chunk.js.map",
     "index.html": "/snap_chat/index.html",
-    "precache-manifest.2ad5f696d41e46ab0689d094b6155466.js": "/snap_chat/precache-manifest.2ad5f696d41e46ab0689d094b6155466.js",
+    "precache-manifest.e66ab7a1d7bc3825a7a32e2813246d60.js": "/snap_chat/precache-manifest.e66ab7a1d7bc3825a7a32e2813246d60.js",
     "service-worker.js": "/snap_chat/service-worker.js",
     "static/css/main.cef3a5b1.chunk.css.map": "/snap_chat/static/css/main.cef3a5b1.chunk.css.map",
-    "static/js/2.006ee3d3.chunk.js.LICENSE.txt": "/snap_chat/static/js/2.006ee3d3.chunk.js.LICENSE.txt"
+    "static/js/2.e25c36a7.chunk.js.LICENSE.txt": "/snap_chat/static/js/2.e25c36a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48ca1a91.js",
-    "static/js/2.006ee3d3.chunk.js",
+    "static/js/2.e25c36a7.chunk.js",
     "static/css/main.cef3a5b1.chunk.css",
-    "static/js/main.b9b33688.chunk.js"
+    "static/js/main.46915edf.chunk.js"
   ]
 }
